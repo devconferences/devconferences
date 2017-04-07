@@ -1,0 +1,13 @@
+{
+  "id": "devoxx-france-2017",
+  "name": "Devoxx France",
+  "edition": "2017",
+  "avatar": "https://www.devoxx.com/images/devoxx_logo.gif",
+  "description": "La conférence pour les Développeurs Passionnés",
+  "url": "http://www.devoxx.fr",
+  "twitter": "DevoxxFR",
+  "youtube": {
+    "channel": "UCsVPQfo5RZErDL41LoWvk0A",
+    "name": "Devoxx FR 2016"
+  }
+}

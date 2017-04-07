@@ -1,0 +1,12 @@
+{
+  "id": "devfest-nantes-2017",
+  "name": "DevFest Nantes",
+  "edition": "2017",
+  "avatar": "http://www.devfest.info/images/gdgbig.png",
+  "baseline": "Be a Coder. Be a Hero!",
+  "description": "LE festival des développeurs organisés par des développeurs ! Tout sur le Mobile, IoT, Web et Cloud présentés par des experts du monde entier pour une des plus grandes conférences techniques.",
+  "url": "https://devfest.gdgnantes.com/",
+  "twitter": "devfestnantes",
+  "startDate": "2017-10-19",
+  "endDate": "2017-10-20"
+}
